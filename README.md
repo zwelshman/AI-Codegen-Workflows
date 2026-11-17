@@ -7,12 +7,12 @@ you will use first time. Admittedly, i will nearly always tweak something from t
 and once code has been generated i will want the system to explain the code line by line. 
 There are some things that work better than others and there maybe combinations or ways that yield better results
 
-## AI models without a dedicated harness
+## AI models without a dedicated harness or context
 In this repository, i will explore code generation options for:
 - Different AI models
 -- Explore capabilities that have been integrated into more recent models
 
-## AI models with more context
+## AI models with no harness, but more context
 - Adding the context of a GitHub repository
 -- Including the GitHub Repository in the AI model's context - RepoMix
 
